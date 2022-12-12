@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../whatsit-service-discovery-ui.iml" filepath="$PROJECT_DIR$/../whatsit-service-discovery-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whatsit-service-discovery-ui.iml" filepath="$PROJECT_DIR$/whatsit-service-discovery-ui.iml" />
     </modules>
   </component>
 </project>
